@@ -2,7 +2,7 @@
 
 An implementation of Flappy Bird in Swift for iOS 8.
 
-![FlappySwift](http://i.imgur.com/1NLoToU.gif)
+![FlappySwift](https://app.yinxiang.com/shard/s3/sh/d7b2cc43-7616-4833-afea-084240379ca1/d93cfea74b493257512c983faa0925bf/res/1dc2b753-9da0-4a10-b1fa-5254e6c1a092/lenv2Dv.gif?resizeSmall&width=832)
 
 # Notes
 
